@@ -11,9 +11,9 @@
 
 
 // 2nd method for odd number with for loop
-// for (let i = 1; i <= 20; i += 1){
-//     if (i % 2 === 1) {
-//         console.log(i);
+for (let i = 1; i <= 20; i += 1){
+    if (i % 2 === 1) {
+        console.log(i);
         
-//     }
-// }
+    }
+}
